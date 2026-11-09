@@ -6,12 +6,7 @@ spring-pendulum/
 │   └── spring_pendulum_report.pdf
 │
 ├── code/
-│   ├── analytical_solution.py
-│   ├── numerical_simulation.py
-│   └── chebyshev_interpolation.py
-│
-├── figures/
-│   ├── trajectory.png
-│   └── interpolation_error.png
-│
-└── requirements.txt
+│   ├── reg_lin.m
+│   ├── sistema_nl.m
+│   └── codigo_pendulo_muelle.m
+
