@@ -13,15 +13,7 @@ This project investigates the dynamics of a spring pendulum using analytical and
 
 ## Repository structure
 
-- `report/`: Full project report (written in Spanish).
+- spring_pendulum_report.pdf: Full project report (written in Spanish).
 - `code/`: MATLAB source files.
 
-## Report
 
-[Read the full report (PDF)](report/spring_pendulum_report.pdf)
-
-## Source code
-
-- [reg_lin.m](code/reg_lin.m)
-- [sistema_nl.m](code/sistema_nl.m)
-- [codigo_pendulo_muelle.m](code/codigo_pendulo_muelle.m)
